@@ -56,6 +56,18 @@ Please download the dataset from the VOCA project page and follow the directory 
 
 ---
 
+## 🧠 Method Summary
+
+The system is implemented using a residual-based lipsync modeling strategy:
+
+- A Transformer (and optionally a DDPM) is trained to predict the residual difference between neutral and emotion-driven mesh sequences.
+- The input consists of DeepSpeech features and an emotion label + emotion intensity value + lipsync intensity value.
+- The predicted residual is added back to the neutral base to generate final expressive animation.
+
+This pipeline enables emotion-conditioned, intensity-controllable 3D mouth motion generation. All training, testing, and visual outputs are executable within the provided notebook.
+
+---
+
 ## 📌 Features
 
 - ✅ Implements both Transformer-based and Diffusion-based (DDPM) models for predicting 3D facial mesh sequences.
