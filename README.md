@@ -19,6 +19,7 @@ All model training and visualization code is implemented in a single notebook an
 ---
 
 ## 📁 Repository Structure
+```
 .
 ├── LipsyncTransformer.ipynb # Main training and evaluation notebook
 ├── README.md # Project overview and instructions
@@ -33,6 +34,7 @@ All model training and visualization code is implemented in a single notebook an
 │ ├── sliding_window.py # Frame slicing utility
 │ ├── mesh_visualizer.py # Result visualization (e.g., .obj animation)
 │ └── ... # Other preprocessing/helper scripts
+```
 
 ---
 
