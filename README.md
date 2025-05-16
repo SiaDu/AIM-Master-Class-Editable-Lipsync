@@ -104,8 +104,11 @@ This pipeline enables emotion-conditioned, intensity-controllable 3D mouth motio
 ## 👤 Author
 
 Du Siyao (SiaDu)
+
 MSc Artificial Intelligence for Media
+
 Bournemouth University
+
 Contact: s5722875@bournemouth.ac.uk
 
 
