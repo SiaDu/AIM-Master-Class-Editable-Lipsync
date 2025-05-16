@@ -66,6 +66,22 @@ Please download the dataset from the VOCA project page and follow the directory 
 
 ---
 
+## 🎥 Demo
+
+### 🔸 Adjustable Speaking Intensity
+
+![Speech Intensity Demo](demo/speech_intensity.png)
+
+### 🔸 Different Emotions and Intensities
+
+| Happy       | Sad          | Angry        |
+|-------------|--------------|--------------|
+| ![](demo/happy.png) | ![](demo/sad.png) | ![](demo/angry.png) |
+
+📺 [Click here to watch the full video demo](https://drive.google.com/file/d/1wxRKY35qL2ye3gLkV1RIwmR2qLf7dYf6/view?usp=sharing)
+
+---
+
 ## 📚 References
 
 - [VOCA](https://github.com/TimoBolkart/voca): Voice Operated Character Animation
