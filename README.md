@@ -58,6 +58,8 @@ Please download the dataset from the VOCA project page and follow the directory 
 
 ## 🧠 Method Summary
 
+![](demo/pipline.jpg)
+
 The system is implemented using a residual-based lipsync modeling strategy:
 
 - A Transformer (and optionally a DDPM) is trained to predict the residual difference between neutral and emotion-driven mesh sequences.
